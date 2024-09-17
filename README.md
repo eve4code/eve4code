@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Atienza</h1>
 <h3 align="center">A Software Engineering Student at Conestoga College</h3>
-
-- 🌱 I’m currently learning **Data Structures & Algorithms and Object Oriented Programming**
-
-- 👨‍💻 All of my projects are available at [eve4code.github.com](https://eve4code.github.io)
-
 - 📫 How to reach me **jacobatienza14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
